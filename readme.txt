@@ -1,4 +1,1 @@
-Git is a distributed version control system.
-Git is free software,too,too.
-Hello~haha
-Hi~heihei
+这是我学习Git时候的第一个Git仓库，并第一次成功推送到Github上的免费仓库。
